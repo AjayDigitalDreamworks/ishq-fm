@@ -1,0 +1,67 @@
+📜 Ishq FM – Privacy Policy
+Effective Date: June 29, 2025
+
+1. Introduction
+Welcome to Ishq FM! Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal data when you use our mobile app and services.
+
+2. Information We Collect
+a. Information You Provide:
+Profile Information: Name, username, bio
+
+Story Content: Text submissions, voice intros
+
+Feedback or Messages: Any messages or confessions you submit
+
+b. Automatically Collected Information:
+Device Information: Device ID, OS type, app version
+
+Usage Data: Pages visited, time spent, mood selections
+
+Firebase Data: For authentication, storage, and analytics
+
+c. Optional:
+Microphone Access: For voice-based introductions (if you record one)
+
+Push Notification Token: For sending you alerts on likes, comments, or uploads
+
+3. How We Use Your Information
+We use your data to:
+
+Operate and improve the Ishq FM app
+
+Display and read aloud your stories
+
+Notify you about activity on your profile
+
+Secure your account and prevent abuse
+
+Analyze usage trends for better features
+
+4. Sharing and Disclosure
+We do not sell your data. Your content is publicly visible to users of the app. We may share your data:
+
+With Firebase (authentication, storage, analytics)
+
+If required by law or legal process
+
+5. Your Choices
+You may:
+
+Edit or delete your profile
+
+Remove your stories or voice recordings
+
+Disable notifications
+
+6. Data Security
+We use secure Firebase services and encryption to protect your data. However, no method is 100% secure.
+
+7. Children’s Privacy
+Ishq FM is not intended for children under 13. If we learn that a child has submitted data, we will delete it.
+
+8. Changes to This Policy
+We may update this policy. Check this page periodically. Continued use means you agree to the new terms.
+
+9. Contact Us
+If you have questions, email us at:
+📧 ajaydigitaldreamworks@gmail.com
