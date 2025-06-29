@@ -6,7 +6,6 @@ Welcome to Ishq FM! Your privacy is important to us. This Privacy Policy explain
 
 2. Information We Collect
 a. Information You Provide:
-Profile Information: Name, username, bio
 
 Story Content: Text submissions, voice intros
 
@@ -21,8 +20,6 @@ Firebase Data: For authentication, storage, and analytics
 
 c. Optional:
 Microphone Access: For voice-based introductions (if you record one)
-
-Push Notification Token: For sending you alerts on likes, comments, or uploads
 
 3. How We Use Your Information
 We use your data to:
@@ -57,11 +54,11 @@ Disable notifications
 We use secure Firebase services and encryption to protect your data. However, no method is 100% secure.
 
 7. Children’s Privacy
-Ishq FM is not intended for children under 13. If we learn that a child has submitted data, we will delete it.
+Ishq FM is not intended for children under 16. If we learn that a child has submitted data, we will delete it.
 
 8. Changes to This Policy
 We may update this policy. Check this page periodically. Continued use means you agree to the new terms.
 
 9. Contact Us
 If you have questions, email us at:
-📧 ajaydigitaldreamworks@gmail.com
+📧 autenicweb@gmail.com
